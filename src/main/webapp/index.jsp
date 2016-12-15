@@ -7,6 +7,7 @@
     </head>
     <body>
         <h1>Hello Java EE 7 Continuous Delivery!</h1>
+        <h1>Hello Java EE 8 Continuous Delivery!</h1>
         <h1>Hello New Java EE 7 Continuous Delivery!</h1>
         <h1>Version IT</h1>
         
