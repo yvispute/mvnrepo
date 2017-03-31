@@ -6,7 +6,7 @@
         <title>Hello Java EE 71 Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Hello Java EE 20 Continuous Delivery!</h1>
+        <h1>Hello Java EE 21 Continuous Delivery!</h1>
         <h1>Hello New Java EE 3 Continuous Delivery!</h1>
         <h1>Version IT</h1>
         
