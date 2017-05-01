@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Hello Java EE 301 Continuous Delivery!</h1>
-        <h1>Hello New Java EE 20 Continuous Delivery!</h1>
+        <h1>Hello New Java EE 20 Continuous Delivery! - Weelcome to Demo Branch</h1>
         <h1>Version IT</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
