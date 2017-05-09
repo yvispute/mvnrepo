@@ -6,9 +6,9 @@
         <title>Hello Java EE 71 Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Hello Java EE 301 Continuous Delivery!</h1>
-        <h1>Hello New Java EE 20 Continuous Delivery!</h1>
-        <h1>Version IT</h1>
+        <h1>Hello Java EE 101 Continuous Delivery!</h1>
+        <h1>Hello New Java EE 11 Continuous Delivery!</h1>
+        <h1>Hello Version IT</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
